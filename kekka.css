@@ -1,0 +1,283 @@
+.iphone-16 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fcd34d;
+  	height: 852px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 20px;
+  	color: #92400e;
+  	font-family: GN-KMBFont-UB-NewstyleKanaB;
+}
+.div {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #fff1e0;
+  	width: 393px;
+  	height: 852px;
+}
+.iphone-16-div {
+  	position: absolute;
+  	top: 62px;
+  	left: 0px;
+  	background-color: #d99776;
+  	width: 393px;
+  	height: 82px;
+}
+.div2 {
+  	position: absolute;
+  	top: 770px;
+  	left: 0px;
+  	background-color: #d99776;
+  	width: 393px;
+  	height: 82px;
+}
+.div3 {
+  	position: absolute;
+  	top: calc(50% - 261px);
+  	left: calc(50% - 189.5px);
+  	width: 379px;
+  	height: 98px;
+  	font-size: 48px;
+  	color: #d97706;
+}
+.div4 {
+  	position: absolute;
+  	top: calc(50% - 49px);
+  	left: calc(50% - 189.5px);
+  	letter-spacing: 0.02em;
+  	line-height: 48px;
+  	display: inline-block;
+  	width: 379px;
+  	height: 98px;
+  	-webkit-text-stroke: 10px #d97706;
+  	paint-order: stroke fill;
+}
+.p {
+  	margin: 0;
+}
+.div5 {
+  	position: absolute;
+  	top: calc(50% - 49px);
+  	left: calc(50% - 189.5px);
+  	letter-spacing: 0.02em;
+  	line-height: 48px;
+  	color: #fcd34d;
+  	display: inline-block;
+  	width: 379px;
+  	height: 98px;
+}
+.div6 {
+  	position: absolute;
+  	top: 79px;
+  	left: 280px;
+  	border-radius: 14px;
+  	background-color: #fcd34d;
+  	width: 82px;
+  	height: 48px;
+}
+.div7 {
+  	position: absolute;
+  	top: 321px;
+  	left: 16px;
+  	width: 360px;
+  	height: 436px;
+}
+.div8 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 14px;
+  	background-color: #d97706;
+  	width: 360px;
+  	height: 436px;
+}
+.parent {
+  	position: absolute;
+  	top: 41px;
+  	left: 14px;
+  	width: 332px;
+  	height: 377px;
+}
+.div9 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 14px;
+  	background-color: #fcd34d;
+  	width: 332px;
+  	height: 47px;
+}
+.div10 {
+  	position: absolute;
+  	top: 84px;
+  	left: 0px;
+  	border-radius: 14px;
+  	background-color: #fcd34d;
+  	width: 332px;
+  	height: 47px;
+}
+.div11 {
+  	position: absolute;
+  	top: 167px;
+  	left: 0px;
+  	border-radius: 14px;
+  	background-color: #fcd34d;
+  	width: 332px;
+  	height: 47px;
+}
+.div12 {
+  	position: absolute;
+  	top: 253px;
+  	left: 0px;
+  	border-radius: 14px;
+  	background-color: #fcd34d;
+  	width: 332px;
+  	height: 124px;
+}
+.div13 {
+  	position: absolute;
+  	top: 776px;
+  	left: 93px;
+  	width: 222px;
+  	height: 70px;
+  	font-size: 24px;
+  	color: #5ac22d;
+  	font-family: GN-KMBFont-UB-NewstyleKanaA;
+}
+.child {
+  	position: absolute;
+  	top: 0px;
+  	left: 62px;
+  	border-radius: 14px;
+  	background-color: #fcd34d;
+  	width: 98px;
+  	height: 70px;
+}
+.div14 {
+  	position: absolute;
+  	top: 9px;
+  	left: 0px;
+  	display: inline-block;
+  	width: 222px;
+  	height: 39px;
+}
+.div15 {
+  	position: absolute;
+  	top: 336px;
+  	left: 7px;
+  	width: 111px;
+  	height: 20px;
+  	color: #fff;
+}
+.div16 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.02em;
+  	line-height: 48px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 111px;
+  	height: 20px;
+}
+.div17 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.02em;
+  	line-height: 48px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 111px;
+  	height: 20px;
+  	text-shadow: 4px 0 0 #92400e, 0 4px 0 #92400e, -4px 0 0 #92400e, 0 -4px 0 #92400e;
+}
+.div18 {
+  	position: absolute;
+  	top: 421px;
+  	left: -7px;
+  	width: 111px;
+  	height: 20px;
+  	color: #fff;
+}
+.div21 {
+  	position: absolute;
+  	top: 504px;
+  	left: 7px;
+  	width: 111px;
+  	height: 20px;
+  	color: #fff;
+}
+.div24 {
+  	position: absolute;
+  	top: 590px;
+  	left: -7px;
+  	width: 111px;
+  	height: 20px;
+  	color: #fff;
+}
+.book_title {
+  	position: absolute;
+  	top: 372px;
+  	left: 34px;
+  	font-size: 16px;
+  	letter-spacing: 0.02em;
+  	line-height: 48px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 323px;
+  	height: 30px;
+}
+.book_writer {
+  	position: absolute;
+  	top: 457px;
+  	left: 35px;
+  	font-size: 16px;
+  	letter-spacing: 0.02em;
+  	line-height: 48px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 323px;
+  	height: 30px;
+}
+.book_genre {
+  	position: absolute;
+  	top: 539px;
+  	left: 35px;
+  	font-size: 16px;
+  	letter-spacing: 0.02em;
+  	line-height: 48px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 323px;
+  	height: 30px;
+}
+.book_discription {
+  	position: absolute;
+  	top: 649px;
+  	left: 35px;
+  	font-size: 16px;
+  	letter-spacing: 0.02em;
+  	line-height: 24px;
+  	display: flex;
+  	align-items: center;
+  	width: 323px;
+  	height: 96px;
+}
+
+.return_button {
+  	position: absolute;
+  	top: 85px;
+  	left: 287px;
+  	font-size: 36px;
+  	letter-spacing: 0.08em;
+  	font-family: GN-KMBFont-UB-NewstyleKanaA;
+}
+
