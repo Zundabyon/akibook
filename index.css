@@ -1,0 +1,147 @@
+.iphone-16 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 852px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 40px;
+  	color: #f8ebe3;
+  	font-family: GN-KMBFont-UB-NewstyleKanaB;
+}
+.div {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #fff1e0;
+  	width: 393px;
+  	height: 852px;
+}
+.icon {
+  	position: absolute;
+  	top: 62px;
+  	left: -99px;
+  	width: 500px;
+  	height: 500px;
+  	object-fit: cover;
+}
+.iphone-16-child {
+  	position: absolute;
+  	top: 62px;
+  	left: 0px;
+  	background-color: #d99776;
+  	width: 393px;
+  	height: 82px;
+}
+.iphone-16-item {
+  	position: absolute;
+  	top: 770px;
+  	left: 0px;
+  	background-color: #d99776;
+  	width: 393px;
+  	height: 82px;
+}
+.find-autumn-books-container {
+  	position: absolute;
+  	top: calc(50% - 223px);
+  	left: calc(50% - 188.5px);
+  	letter-spacing: 0.02em;
+  	line-height: 30px;
+  	display: inline-block;
+  	width: 378px;
+  	height: 109px;
+}
+.find {
+  	margin: 0;
+}
+.iphone-16-div {
+  	position: absolute;
+  	top: calc(50% - 56px);
+  	left: calc(50% - 161.5px);
+  	width: 337px;
+  	height: 82px;
+  	font-size: 28px;
+  	color: #d97706;
+}
+.div2 {
+  	position: absolute;
+  	top: calc(50% - 41px);
+  	left: calc(50% - 168.5px);
+  	letter-spacing: 0.02em;
+  	line-height: 30px;
+  	display: inline-block;
+  	width: 337px;
+  	height: 82px;
+  	-webkit-text-stroke: 10px #d97706;
+  	paint-order: stroke fill;
+}
+.div3 {
+  	position: absolute;
+  	top: calc(50% - 41px);
+  	left: calc(50% - 168.5px);
+  	letter-spacing: 0.02em;
+  	line-height: 30px;
+  	color: #f5f5f5;
+  	display: inline-block;
+  	width: 337px;
+  	height: 82px;
+}
+.button {
+  	position: absolute;
+  	top: 522px;
+  	left: 61px;
+  	width: 267px;
+  	height: 178px;
+  	font-size: 96px;
+  	color: #fcd34d;
+  	font-family: GN-KMBFont-UB-NewstyleKanaA;
+}
+.div4 {
+  	position: absolute;
+  	height: 96.63%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 3.37%;
+  	left: 0%;
+  	box-shadow: 9px -8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 14px;
+  	background-color: #d97706;
+}
+.div5 {
+  	position: absolute;
+  	height: 77.53%;
+  	width: 92.88%;
+  	top: 22.47%;
+  	left: 4.49%;
+  	letter-spacing: 0.08em;
+  	display: inline-block;
+}
+.metappi {
+  	position: absolute;
+  	top: 798px;
+  	left: 93px;
+  	font-size: 24px;
+  	font-family: GN-KMBFont-UB-NewstyleKanaA;
+  	color: #fff1e0;
+  	display: inline-block;
+  	width: 222px;
+  	height: 39px;
+}
+.halloween-pumpkin2-1-icon {
+  	position: absolute;
+  	top: 452px;
+  	left: 235px;
+  	width: 115px;
+  	height: 98px;
+  	object-fit: cover;
+}
+.halloween-mark-obake-1-icon {
+  	position: absolute;
+  	top: 631px;
+  	left: 0px;
+  	width: 112px;
+  	height: 112px;
+  	object-fit: cover;
+}
+
